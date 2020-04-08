@@ -48,14 +48,14 @@ count.times do |i|
 
 end
 
-# generate minimum of array
+# print minimum of array
 
 puts "The minimum value in the array is #{my_array.min}."
-# generate maximum of array
+# print maximum of array
 
 puts "The maximum value in the array is #{my_array.max}."
 
-# generate average of array 
+# print average of array 
 
 average = my_array.sum / my_array.length.to_f
 
