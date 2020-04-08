@@ -30,8 +30,6 @@ end
 
 puts "Comparing to the last value entered, #{my_array.last}, here are the observations."
 
-(0..)
-
 # determine if each item in array is less than, equal to, or greater than last value in array
 
 count = my_array.length
